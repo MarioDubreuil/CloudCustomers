@@ -21,4 +21,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Helpers\" />
+    <Folder Include="Fixtures\" />
+    <Folder Include="Systems\" />
+  </ItemGroup>
+
 </Project>
